@@ -1,0 +1,4 @@
+com\fitness\beans\User.class
+com\fitness\dao\UserDao$1.class
+com\fitness\controllers\UserController.class
+com\fitness\dao\UserDao.class
